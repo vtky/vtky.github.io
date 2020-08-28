@@ -1,17 +1,17 @@
-site: Sidey
-url: #yoururl
+site: vtky
+url: https://vtky.github.io
 title: Sidey
-description: Simple and minimalistic jekyll blogging theme.
+description: vtky's github.io
 twitter:
-  username: #yourusername
+  username: vincent_tky
   card: summary
-  creator: #yourusername
+  creator: vincent_tky
 author:
-  twitter: #yourusername
-  name: #yourusername
+  twitter: vincent_tky
+  name: vtky
   avatar:
   email: #youremail
-  url: #yoururl
+  url: vtky.github.io
 permalink: pretty
 
 baseurl: ""
@@ -41,7 +41,29 @@ collections:
   posts:
     output: true
     permalink: /:year/:month/:day/:slug
-  
+
+markdown: kramdown
+
+kramdown:
+  # auto_id_prefix: 
+  auto_id_stripping: false
+  auto_ids: true
+  entity_output: as_char
+  # footnote_backlink: &#8617;
+  footnote_backlink_inline: false
+  footnote_nr: 1
+  hard_wrap: false
+  header_offset: 0
+  html_to_native: false
+  input: GFM
+  line_width: 72
+  parse_block_html: false
+  parse_span_html: true
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  syntax_highlighter: rouge
+  show_warnings: false
+
+
 defaults:
   -
     scope:

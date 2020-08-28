@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<section class="post">
+<section class="post markdown-body">
   <h2>{{ page.title }}</h2>
   {{ content }}
   <span class="meta"><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time> &middot; {% for tag in page.tags %}
