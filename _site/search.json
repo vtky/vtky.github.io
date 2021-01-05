@@ -2,23 +2,23 @@
   
     {
 
-      "title"    : "AppleID Auth Part 1",
-      "url"      : "/2020/05/19/appleid-auth-part-1",
+      "title"    : "Apple GlobalPreferences",
+      "url"      : "/2021/01/05/apple-globalpreferences",
       "category" : "",
-      "tags"     : "apple, ios, appleid, authentication",
-      "date"     : "2020-05-19 00:00:00 +0800",
-      "description" : "This is a collection of short CSS snippets I thought might be useful for beginners"
+      "tags"     : "apple, logging, preferences, globalpreferences",
+      "date"     : "2021-01-05 00:00:00 +0800",
+      "description" : ""
 
     } ,
   
     {
 
-      "title"    : "CSS hacks you may not know",
-      "url"      : "/2014/05/12/css-hacks-you-may-not-know",
+      "title"    : "AppleID Auth Part 1",
+      "url"      : "/2020/05/19/appleid-auth-part-1",
       "category" : "",
-      "tags"     : "css",
-      "date"     : "2014-05-12 00:00:00 +0800",
-      "description" : "This is a collection of short CSS snippets I thought might be useful for beginners"
+      "tags"     : "apple, ios, appleid, authentication",
+      "date"     : "2020-05-19 00:00:00 +0800",
+      "description" : ""
 
     } 
   

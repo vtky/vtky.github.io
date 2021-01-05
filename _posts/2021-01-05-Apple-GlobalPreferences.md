@@ -6,8 +6,6 @@ summary:
 tags: [apple, logging, preferences, globalpreferences]
 ---
 
-## Logging
-
 In Apple binaries, code similar to the following may be present. 
 
 ```c++

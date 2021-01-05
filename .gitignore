@@ -82,3 +82,5 @@ tmp
 .DS_Store
 .jekyll-cache
 .git
+
+draft/
