@@ -1,8 +1,8 @@
 ---
 layout: post
 title: AppleID Auth Part 1
-description: This is a collection of short CSS snippets I thought might be useful for beginners
-summary: This is a collection of short CSS snippets I thought might be useful for beginners.
+description: 
+summary: 
 tags: [apple, ios, appleid, authentication]
 ---
 
