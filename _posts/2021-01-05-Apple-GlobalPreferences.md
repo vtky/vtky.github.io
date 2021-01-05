@@ -44,8 +44,8 @@ return (unsigned __int8)CFPreferencesGetAppBooleanValue(v0) == 0;
 
 These are `Boolean` values that can be configured within the `.GlobalPreferences.plist` file, located at:
 
-macOS: `/Library/Preferences`
-Windows: `C:\Users\<USERNAME>\AppData\Roaming\Apple Computer\Preferences`
+* macOS: `/Library/Preferences`
+* Windows: `C:\Users\<USERNAME>\AppData\Roaming\Apple Computer\Preferences`
 
 Create the file, if it doesn't exist. The contents would be similar to the following:
 
@@ -68,5 +68,5 @@ Create the file, if it doesn't exist. The contents would be similar to the follo
 
 If used to enable logging to better understand an application, the logs would usually be found,
 
-macOS: `TBD`
-Windows: `C:\Users\<USERNAME>\AppData\Roaming\Apple Computer\Logs`
+* macOS: `TBD`
+* Windows: `C:\Users\<USERNAME>\AppData\Roaming\Apple Computer\Logs`
